@@ -9,6 +9,7 @@ import box
 
 try:
     import pyfiglet
+    
     pyfiglet_installed = True
 except ImportError:
     pyfiglet_installed = False
